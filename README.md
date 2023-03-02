@@ -1,4 +1,13 @@
-### Hi there 👋
+### hello there :)
+a wise man once said:
+
+"potato is very poggers"
+
+"blender is very cool"
+
+"C# and Unity is fire"
+
+
 
 <!--
 **SilveryPotato/silverypotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
